@@ -14,10 +14,6 @@
 	path = measurement_processes_production
 	url = git@github.com:GrupoRequiez/measurement_processes_production.git
 	branch = 11.0
-[submodule "incoming_products_kardex"]
-	path = incoming_products_kardex
-	url = git@github.com:GrupoRequiez/incoming_products_kardex.git
-	branch = 11.0
 [submodule "product_brand"]
 	path = product_brand
 	url = git@github.com:GrupoRequiez/product_brand.git
