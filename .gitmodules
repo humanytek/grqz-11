@@ -6,3 +6,8 @@
 	path = vendor-bills
 	url = git@git.vauxoo.com:vauxoo/vendor-bills.git
 	branch = 11.0
+
+[submodule "product_classification"]
+	path = product_classification
+	url = git@github.com:GustavoRequiez/product_classification.git
+	branch = 11.0
